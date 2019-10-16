@@ -1,0 +1,29 @@
+Testsuite: com.centrica.domain.SmartMeterOpenServiceOrderDetailTest
+Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.049 sec
+
+Testcase: shouldReturnStatusDetails took 0.015 sec
+Testcase: shouldReturnAccountNumber took 0.012 sec
+Testcase: shouldReturnServiceOrderID took 0.001 sec
+Testcase: shouldReturnEarliestStartDate took 0 sec
+Testcase: shouldReturnLatestStartDate took 0 sec
+Testcase: shouldReturnmeterread took 0.001 sec
+Testcase: shouldReturnServiceProductInternalID took 0 sec
+Testcase: shouldReturnUserStatusCode took 0 sec
+Testcase: shouldReturnAddressDetails took 0.001 sec
+Testcase: shouldReturnCustomerType took 0.001 sec
+Testcase: shouldReturnValidResponseForGas took 0.001 sec
+Testcase: shouldReturnValidResponseForElec took 0.001 sec
+Testcase: shouldReturnValidResponseFailForGas took 0.001 sec
+Testcase: shouldReturnValidResponseFailForElec took 0.001 sec
+Testcase: shouldReturnValidResponse took 0.001 sec
+Testcase: shouldReturnInValidResponse took 0.001 sec
+Testcase: shouldReturnInValidResponseWithEmptyProductInternalID took 0 sec
+Testcase: shouldReturnFirstName took 0 sec
+Testcase: shouldReturnLastName took 0 sec
+Testcase: shouldReturnSalution took 0 sec
+Testcase: shouldReturngetEmailAddress took 0 sec
+Testcase: shouldReturngetFuelType took 0 sec
+Testcase: shouldReturngetBestContactNumber took 0 sec
+Testcase: shouldReturnSpecialInstruction took 0 sec
+Testcase: shouldReturnActiveAccountServiceOrder took 0.001 sec
+Testcase: shouldReturnOperationDetails took 0.001 sec

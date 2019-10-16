@@ -1,0 +1,10 @@
+Testsuite: com.centrica.domain.BGBusinessRoleProfileTypeTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 sec
+
+Testcase: testRoleProfileTypeRBP took 0.022 sec
+Testcase: testRoleProfileTypeSuperUser took 0 sec
+Testcase: testRoleProfileTypeFromIsExists took 0.001 sec
+Testcase: testRoleProfileTypeContractManager took 0 sec
+Testcase: testRoleProfileTypeFromIsNotExists took 0.001 sec
+Testcase: testRoleProfileTypeUserDescription took 0.001 sec
+Testcase: testRoleProfileTypeRB took 0.001 sec

@@ -1,0 +1,20 @@
+Testsuite: com.centrica.domain.PersonalProjectionTest
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec
+
+Testcase: shouldSetAndGetAdditionalProduct took 0.001 sec
+Testcase: shouldSetAndGetCurrentFlag took 0.001 sec
+Testcase: shouldSetAndGetDiscountDescription took 0 sec
+Testcase: shouldSetAndGetDualFuel took 0 sec
+Testcase: shouldSetAndGetTOU took 0.001 sec
+Testcase: shouldSetAndGetPenalty took 0 sec
+Testcase: shouldSetAndGetpriceGuaranteedUntil took 0 sec
+Testcase: shouldSetAndGetrank took 0.001 sec
+Testcase: shouldSetAndGettariffCode took 0 sec
+Testcase: shouldSetAndGettariffEndDate took 0 sec
+Testcase: shouldSetAndGettariffEndDate1 took 0.001 sec
+Testcase: shouldSetAndGettariffName took 0.001 sec
+Testcase: shouldSetAndGettariffType took 0 sec
+Testcase: shouldSetAndGetMeterType took 0 sec
+Testcase: shouldSetAndGetFuelType took 0.001 sec
+Testcase: shouldSetAndGetPostCode took 0.001 sec
+Testcase: shouldSetAndGetunitRates took 0.001 sec

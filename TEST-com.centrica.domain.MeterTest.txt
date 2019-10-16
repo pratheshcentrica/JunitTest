@@ -1,0 +1,13 @@
+Testsuite: com.centrica.domain.MeterTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+
+Testcase: testIsComplexMeter took 0 sec
+Testcase: testForDualMeterForNonSmartMeter took 0 sec
+Testcase: testIsSmartMeter took 0 sec
+Testcase: testGetComplexMeters took 0 sec
+Testcase: testForDualMeterForSmartMeter took 0 sec
+Testcase: testForDualMeterForSmartMeterTrue took 0 sec
+Testcase: testForDualMeterForNonSmartMeterTrue took 0 sec
+Testcase: testForNotNull took 0.001 sec
+Testcase: testMeterReadingTypeTakenBeforeFiveDaysFalse took 0 sec
+Testcase: testMeterReadingScheduleDateAndMRO took 0.001 sec

@@ -1,0 +1,24 @@
+Testsuite: com.centrica.domain.DiagnosticToolQuestionTest
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+
+Testcase: shouldCheckEqualsWhenDifferentObjectWithDifferentQuestionLevel took 0.001 sec
+Testcase: shouldTestAttributesAfterParametrizedConstruction took 0 sec
+Testcase: shouldTestConstructorAndGetterSetter took 0 sec
+Testcase: shouldCheckForSameQuestionlevel took 0 sec
+Testcase: shouldCheckForNullQuestionlevel took 0 sec
+Testcase: shouldCheckForDifferentQuestionlevel took 0 sec
+Testcase: shouldCheckForSameQuestionSetId took 0 sec
+Testcase: shouldCheckForNullQuestionSetId took 0 sec
+Testcase: shouldCheckForDifferentQuestionSetId took 0 sec
+Testcase: shouldCreatePossibleAnswerWhenNull took 0.001 sec
+Testcase: shouldNotCreatePossibleAnswerWhenNotNull took 0 sec
+Testcase: shouldCheckHashCodeWhenQuestionIdNull took 0.001 sec
+Testcase: shouldCheckHashCodeWhenQuestionIdNotNull took 0 sec
+Testcase: shouldCheckEqualsWhenSameObject took 0.001 sec
+Testcase: shouldCheckEqualsWhenNullObject took 0 sec
+Testcase: shouldCheckEqualsWhenDifferentDomainObject took 0 sec
+Testcase: shouldCheckEqualsWhenDifferentObjectWithSimilarDetails took 0 sec
+Testcase: shouldCheckEqualsWhenDifferentObjectWithDifferentQuestionId took 0 sec
+Testcase: shouldCheckEqualsWhenDifferentObjectWithDifferentQuestionSetId took 0 sec
+Testcase: shouldCheckEqualsWhenDifferentObjectWithDifferentSubject took 0 sec
+Testcase: shouldAnswerNull took 0 sec

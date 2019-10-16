@@ -1,0 +1,6 @@
+Testsuite: com.centrica.domain.EnergyChargeTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+
+Testcase: testSettingAndGettingGasAndElectricityCost took 0.001 sec
+Testcase: testSetAndGetMethods took 0 sec
+Testcase: testEnergyCharges took 0 sec

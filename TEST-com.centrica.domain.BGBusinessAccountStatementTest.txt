@@ -1,0 +1,15 @@
+Testsuite: com.centrica.domain.BGBusinessAccountStatementTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 sec
+
+Testcase: shouldSetAndGetContractAccountNumber took 0.003 sec
+Testcase: shouldSetAndGetBPName took 0.003 sec
+Testcase: shouldSetAndGetAmount took 0.002 sec
+Testcase: shouldSetAndGetFuelType took 0.003 sec
+Testcase: shouldSetAndGetDueDate took 0.002 sec
+Testcase: shouldSetAndGetAccountNumber took 0.002 sec
+Testcase: shouldSetAndGetPostCode took 0.002 sec
+Testcase: shouldSetAndGetBillingAddress took 0.002 sec
+Testcase: shouldSetAndGetStatus took 0.002 sec
+Testcase: shouldSetAndGetDocumentNumber took 0.002 sec
+Testcase: shouldSetAndGetPostingDate took 0.002 sec
+Testcase: shouldSetAndGetFormattedTransactionType took 0.002 sec

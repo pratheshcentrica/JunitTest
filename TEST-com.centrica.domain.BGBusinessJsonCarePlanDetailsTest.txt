@@ -1,0 +1,11 @@
+Testsuite: com.centrica.domain.BGBusinessJsonCarePlanDetailsTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 sec
+
+Testcase: testforsetId took 0.04 sec
+Testcase: testsetBGBusinessJsonCarePlanSubDetails took 0.002 sec
+Testcase: testforsetlocation took 0.002 sec
+Testcase: testforsetIsExistingCustomer took 0.001 sec
+Testcase: testforsetApplianceCategory took 0.001 sec
+Testcase: testforsetApplianceSize took 0.001 sec
+Testcase: testforsetsetApplianceCovered took 0.002 sec
+Testcase: forBGBusinessJsonCarePlanDetails took 0.001 sec

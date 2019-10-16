@@ -1,0 +1,19 @@
+Testsuite: com.centrica.domain.BGBusinessAccountsTest
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 sec
+
+Testcase: shouldSetAndGetContractAccountNumber took 0.002 sec
+Testcase: shouldSetAndGetContractAccountType took 0.002 sec
+Testcase: shouldSetAndGetAccountbalance took 0.003 sec
+Testcase: shouldSetAndGetAccountBalanceStatus took 0.002 sec
+Testcase: shouldSetAndGetAccountFuelType took 0.002 sec
+Testcase: shouldSetAndGetAccountStatus took 0.002 sec
+Testcase: shouldSetAndGetFormattedAddress took 0.002 sec
+Testcase: shouldSetAndGetDueForRenewal took 0.002 sec
+Testcase: shouldSetAndGetRenewalType took 0.002 sec
+Testcase: shouldSetAndGetCoolOffDate took 0.002 sec
+Testcase: shouldSetAndGetMeterLink took 0.002 sec
+Testcase: shouldSetAndGetPaymentLink took 0.002 sec
+Testcase: shouldSetAndGetRenewalLink took 0.002 sec
+Testcase: shouldSetAndGetViewBillLink took 0.002 sec
+Testcase: shouldSetAndGetSiteDetails took 0.002 sec
+Testcase: shouldSetAndGetBillingAddress took 0.003 sec

@@ -1,0 +1,6 @@
+Testsuite: com.centrica.domain.salesPlatform.priceengine.KACProductTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Testcase: testSingleApplianceDerivedPrice took 0.002 sec
+Testcase: testKAC3DerivedPrice took 0 sec
+Testcase: testLowerKAC3DerivedPrice took 0 sec

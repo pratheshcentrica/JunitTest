@@ -1,0 +1,4 @@
+Testsuite: com.centrica.domain.SolrInputDocumentTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
+
+Testcase: houldTestForGettersAndSetters took 0 sec

@@ -1,0 +1,14 @@
+Testsuite: com.centrica.domain.DiagnosticToolDiscountTest
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 sec
+
+Testcase: shouldReturnDiagnosticToolDiscountScenario took 0.001 sec
+Testcase: shouldReturnDiagnosticToolDiscountForPSRMessage took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountnull took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountempty took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscount took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountForDiscountMessage took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountForWHDC took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountForMessageAndPSR took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountWHD took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountForAW took 0 sec
+Testcase: shouldReturnDiagnosticToolDiscountForPSR took 0.001 sec

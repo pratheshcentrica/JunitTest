@@ -1,0 +1,26 @@
+Testsuite: com.centrica.domain.RegisterTest
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec
+
+Testcase: testValidUserEnteredReading took 0 sec
+Testcase: testInvalidUserEnteredReadingBlanks took 0.001 sec
+Testcase: checkHashcodeFunction took 0 sec
+Testcase: testGettersAndSetters took 0.001 sec
+Testcase: testInvalidUserEnteredReadingShort took 0 sec
+Testcase: testInvalidUserEnteredReadingEmpty took 0 sec
+Testcase: shouldSetStringValues took 0 sec
+Testcase: testEstimatedReadTypeClassification took 0 sec
+Testcase: testActualReadTypeClassification took 0.001 sec
+Testcase: testUnknownReadTypeClassification took 0 sec
+Testcase: testHasReadingValidationFailure_CODEBLANK took 0 sec
+Testcase: testHasReadingValidationFailure_CODE1 took 0 sec
+Testcase: testHasReadingValidationFailure_CODE3 took 0 sec
+Testcase: testHasReadingValidationFailure_CODE2 took 0 sec
+Testcase: testHasReadingValidationFailure_CODE0 took 0 sec
+Testcase: testNightMeterRead took 0 sec
+Testcase: testDayMeterRead took 0 sec
+Testcase: testRegisterContractType took 0 sec
+Testcase: checkEqualsAndHashcodeFunction took 0 sec
+Testcase: checkEqualsAndHashcodeFunctionFalse took 0 sec
+Testcase: checkCompareTo took 0 sec
+Testcase: checkNullRegisterNumber took 0 sec
+Testcase: checkReadingAndNumberOfDials took 0 sec

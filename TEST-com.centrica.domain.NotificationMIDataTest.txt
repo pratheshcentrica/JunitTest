@@ -1,0 +1,6 @@
+Testsuite: com.centrica.domain.NotificationMIDataTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
+
+Testcase: testGettersAndSetter took 0 sec
+Testcase: testGetTemplateNameWhenTemplatePathEmpty took 0 sec
+Testcase: testGetNumberOfNotificationWhenNumberOfNotificationEmpty took 0 sec

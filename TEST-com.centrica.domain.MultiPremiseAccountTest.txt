@@ -1,0 +1,11 @@
+Testsuite: com.centrica.domain.MultiPremiseAccountTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Testcase: shouldSetAndGetPaymentMethod took 0 sec
+Testcase: shouldSetAndGetPaymentRegularity took 0 sec
+Testcase: shouldSetAndGetContracts took 0 sec
+Testcase: shouldSetAndGetPaymentCost took 0 sec
+Testcase: shouldSetAndGetNextPaymentDue took 0 sec
+Testcase: shouldSetAndGetProductDetailsMap took 0 sec
+Testcase: shouldSetAndGetaccountManagerDetailsMap took 0 sec
+Testcase: shouldSetAndGetChildContractDetails took 0 sec

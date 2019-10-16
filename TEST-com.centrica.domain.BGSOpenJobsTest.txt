@@ -1,0 +1,25 @@
+Testsuite: com.centrica.domain.BGSOpenJobsTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.171 sec
+------------- Standard Output ---------------
+18:36:44,099 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+18:36:44,099 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+18:36:44,099 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/home/ec2-user/cq-trunk-stack/core/britishgas/lib/buildtime/cq/org.apache.sling.commons.log-4.0.0.jar!/logback.xml]
+18:36:44,100 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.
+18:36:44,100 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:/home/ec2-user/cq-trunk-stack/core/britishgas/lib/buildtime/org.apache.sling.commons.log-4.0.0.jar!/logback.xml]
+18:36:44,100 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:/home/ec2-user/cq-trunk-stack/core/britishgas/lib/buildtime/cq/org.apache.sling.commons.log-4.0.0.jar!/logback.xml]
+18:36:44,116 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@38e89375 - URL [jar:file:/home/ec2-user/cq-trunk-stack/core/britishgas/lib/buildtime/cq/org.apache.sling.commons.log-4.0.0.jar!/logback.xml] is not of type file
+18:36:44,157 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+18:36:44,160 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+18:36:44,169 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]
+18:36:44,187 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+18:36:44,229 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+18:36:44,229 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]
+18:36:44,230 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+18:36:44,230 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@2d290383 - Registering current configuration as safe fallback point
+
+------------- ---------------- ---------------
+
+Testcase: validateBGSOpenJobs took 0.167 sec
+Testcase: checkAppointmentDateSameAsCurrentDateReturnTrue took 0.001 sec
+Testcase: checkAppointmentDateSameAsCurrentDateWhenAppointmentDateNull took 0 sec
+Testcase: checkAppointmentDateSameAsCurrentDateWhenAppointmentDateEmpty took 0 sec

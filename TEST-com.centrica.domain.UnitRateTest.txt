@@ -1,0 +1,12 @@
+Testsuite: com.centrica.domain.UnitRateTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec
+
+Testcase: checkHashcodeFunction took 0.005 sec
+Testcase: checkEqualsAndHashcodeFunction took 0 sec
+Testcase: checkEqualsAndHashcodeFunctionFalse took 0.001 sec
+Testcase: shouldBuildUnitRate took 0 sec
+Testcase: checkCompareToFunction took 0 sec
+Testcase: shouldRetutnMdd took 0 sec
+Testcase: shouldReturnQcc took 0 sec
+Testcase: shouldReturnPpm took 0 sec
+Testcase: shouldReturnPpmNull took 0 sec

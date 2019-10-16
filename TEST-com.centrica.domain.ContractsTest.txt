@@ -1,0 +1,19 @@
+Testsuite: com.centrica.domain.ContractsTest
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec
+
+Testcase: testCorrespondenceTypeTrue took 0 sec
+Testcase: testEmptyCorrespondenceTypeTrue took 0 sec
+Testcase: testCorrespondenceTypeFalse took 0 sec
+Testcase: testCorrespondenceTypeForPaperTrue took 0 sec
+Testcase: testCorrespondenceTypeForPaperFalse took 0.001 sec
+Testcase: shouldReturnContractTypeGasAsStringValueIfOnlyOneGasContractAvailable took 0 sec
+Testcase: shouldReturnNullForFirstContractEndDateIfOnlyNullContractAvailable took 0.001 sec
+Testcase: shouldReturnNullForFirstContractEndDateIfContractEndDateIsNullForAvailableContract took 0 sec
+Testcase: shouldReturnContractTypeElectricityAsStringValueIfOnlyOneElectricityContractAvailable took 0.001 sec
+Testcase: shouldReturnEmptyStringAsStringValueIfNoContractAvailable took 0 sec
+Testcase: shouldReturnNullForFirstContractEndDateIfNoContractAvailable took 0 sec
+Testcase: testForContractOwnerFalse took 0 sec
+Testcase: shouldFindRightContract took 0 sec
+Testcase: testForContractOwnerTrue took 0.001 sec
+Testcase: shouldReturnEnergyAsStringValueIfMorethanOneContractAvailable took 0 sec
+Testcase: shouldReturnContractEndDateOfFirstContractForFirstContractEndDateIfMoreThanOneContractAvailable took 0.001 sec

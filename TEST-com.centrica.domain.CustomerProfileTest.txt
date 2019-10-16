@@ -1,0 +1,38 @@
+Testsuite: com.centrica.domain.CustomerProfileTest
+Tests run: 35, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.025 sec
+
+Testcase: shouldSetAndGetMpllIndicator took 0 sec
+Testcase: shouldReturnValidAge took 0.001 sec
+Testcase: shouldSetGasAccountAvailableAsFalseIfOrderItemsNull took 0.001 sec
+Testcase: shouldSetGasAccountAvailableAsFalseIfOrderItemsEmpty took 0 sec
+Testcase: shouldSetGasAccountAvailableAsTrueIfGasAccountsAreAvailable took 0 sec
+Testcase: shouldReturnTrueIfAllAccountsHaveSamePostCode took 0.001 sec
+Testcase: shouldReturnTrueIfAccountsAndOrdersArePresent took 0 sec
+Testcase: shouldReturnFalseIfAccountsHaveDifferentPostCode took 0.001 sec
+Testcase: shouldSetElectricityAccountAvailableAsTrueIfElectricityAccountsAreAvailable took 0 sec
+Testcase: shouldReturnTrueIfDualFuelCustomer took 0 sec
+Testcase: shouldNotSetOrderTypeIdentifiersIfAccountsIsNull took 0.001 sec
+Testcase: shouldReturnFalseIfOnlyGasFuelCustomer took 0 sec
+Testcase: shouldNotSetAccountTypeIdentifiersIfAccountsIsEmpty took 0.001 sec
+Testcase: shouldSetServiceAccountAvailableAsTrueIfServiceAccountsAreAvailable took 0 sec
+Testcase: shouldSetEnergyAccountAvailableAsTrueIfEnergyAccountsAreAvailable took 0.001 sec
+Testcase: shouldGetAndAddMpllAccount took 0.001 sec
+Testcase: shouldReturnFalseIfNoAccountsCustomer took 0 sec
+Testcase: shouldReturnFalseIfOnlyElectricityFuelCustomer took 0 sec
+Testcase: shouldReturnFalseIfNotGasAndElectricityFuelCustomer took 0 sec
+Testcase: shouldReturnTrueIfAccountsArePresent took 0 sec
+Testcase: shouldReturnFalseIfCorrespondenceAddressAndAccountsNotPresent took 0 sec
+Testcase: shouldReturnTrueIfCorrespondenceAddressIsForeignAddress took 0 sec
+Testcase: shouldReturnTrueIfAccountAddressIsForeignAddress took 0.001 sec
+Testcase: shouldReturnFalseIfCorrespondenceAddressIsUKAddress took 0 sec
+Testcase: shouldReturnTrueIfOrdersArePresent took 0 sec
+Testcase: shouldNotSetAccountTypeIdentifiersIfAccountsIsNull took 0 sec
+Testcase: shouldTestOtherAttributes took 0 sec
+Testcase: shouldTestBooleanAttributes took 0 sec
+Testcase: shouldNotSetOrderTypeIdentifiersIfAccountsIsEmpty took 0 sec
+Testcase: shouldTestStringAttributes took 0.001 sec
+Testcase: shouldSetGasAccountAvailableAsTrueIfGasOrdersAreAvailable took 0 sec
+Testcase: shouldSetElectricityAccountAvailableAsTrueIfElectricityOrdersAreAvailable took 0.001 sec
+Testcase: shouldReturnTrueIfMultiPremiseAccountsArePresent took 0 sec
+Testcase: shouldReturnFalseIfMultiPremiseAccountsAreNotPresent took 0 sec
+Testcase: shouldReturnFalseIfAccountsAndOrdersAreNotPresent took 0 sec

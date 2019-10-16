@@ -1,0 +1,23 @@
+Testsuite: com.centrica.domain.BGBusinessAccountDetailsTest
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.111 sec
+
+Testcase: shouldSetAndGetPaymentMethod took 0.039 sec
+Testcase: shouldSetAndGetSortCode took 0.003 sec
+Testcase: shouldSetAndGetBankName took 0.003 sec
+Testcase: shouldSetAndGetBankAccountNumber took 0.003 sec
+Testcase: shouldSetAndGetAccountHoldersName took 0.003 sec
+Testcase: shouldSetAndGetDdDefaulter took 0.003 sec
+Testcase: shouldSetAndGetddCycle took 0.002 sec
+Testcase: shouldSetAndGetAccountStatus took 0.003 sec
+Testcase: shouldSetAndGetLastDDSetupORAmendDate took 0.003 sec
+Testcase: shouldSetAndGetSupplyOrSiteAddress took 0.003 sec
+Testcase: shouldSetAndGetpbStatus took 0.003 sec
+Testcase: shouldSetAndGetEdiOrTvi took 0.003 sec
+Testcase: shouldSetAndGetContractID took 0.003 sec
+Testcase: shouldSetAndGetContractDates took 0.003 sec
+Testcase: shouldSetAndGetIsBrokerManaged took 0.003 sec
+Testcase: shouldSetAndGetContractStatus took 0.003 sec
+Testcase: shouldSetAndGetpbIndicator took 0.003 sec
+Testcase: shouldSetAndGetpaymentScheme took 0.002 sec
+Testcase: shouldSetAndGetfixedDDDate took 0.003 sec
+Testcase: shouldSetAndGetddAmount took 0.003 sec

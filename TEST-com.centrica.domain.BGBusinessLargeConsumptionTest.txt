@@ -1,0 +1,37 @@
+Testsuite: com.centrica.domain.BGBusinessLargeConsumptionTest
+Tests run: 34, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.359 sec
+
+Testcase: shouldSetAndGetMeterType took 0.034 sec
+Testcase: shouldSetAndGetPaymentMethod took 0.005 sec
+Testcase: shouldSetAndGetSiteAddress took 0.005 sec
+Testcase: shouldSetAndGetFuelType took 0.005 sec
+Testcase: shouldSetAndGetStandingCharge took 0.005 sec
+Testcase: shouldSetAndGetEnergisationStatus took 0.005 sec
+Testcase: shouldSetAndGetMeterPointStatus took 0.005 sec
+Testcase: shouldSetAndGetMarketParticipantID took 0.005 sec
+Testcase: shouldSetAndGetCurrentGspGroupID took 0.005 sec
+Testcase: shouldSetAndGetMeasurementClass took 0.005 sec
+Testcase: shouldSetAndGetFirstName took 0.005 sec
+Testcase: shouldSetAndGetLastName took 0.005 sec
+Testcase: shouldSetAndGetJourneyType took 0.005 sec
+Testcase: shouldSetAndGetProfileType took 0.005 sec
+Testcase: shouldSetAndGetMTCCode took 0.005 sec
+Testcase: shouldSetAndGetLineLossFactor took 0.005 sec
+Testcase: shouldSetAndGetMPANCore took 0.005 sec
+Testcase: shouldSetAndGetMprn took 0.005 sec
+Testcase: shouldSetAndGetCotFlag took 0.005 sec
+Testcase: shouldSetAndGetSscDate took 0.005 sec
+Testcase: shouldSetAndGetMeterSerialNo took 0.005 sec
+Testcase: shouldSetAndGetPodValue took 0.005 sec
+Testcase: shouldSetAndGetAddress took 0.004 sec
+Testcase: shouldSetAndGetEstimatedBillValue took 0.004 sec
+Testcase: shouldSetAndGetEstimatedAnnualComsumption took 0.004 sec
+Testcase: shouldSetAndGetPreviousContractEndDate took 0.004 sec
+Testcase: shouldSetAndGetPreferredStartDate took 0.005 sec
+Testcase: shouldSetAndGetContractStartDate took 0.005 sec
+Testcase: shouldSetAndGetQuoteDuration took 0.005 sec
+Testcase: shouldSetAndGetListNumber took 0.004 sec
+Testcase: shouldSetAndGetBGBusinessPriceBreakDown took 0.004 sec
+Testcase: shouldSetAndConsumption took 0.004 sec
+Testcase: shouldSetAndGetContractAccountID took 0.004 sec
+Testcase: shouldSetAndGetTotalConsumption took 0.004 sec

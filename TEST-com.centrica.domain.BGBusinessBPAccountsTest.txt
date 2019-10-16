@@ -1,0 +1,12 @@
+Testsuite: com.centrica.domain.BGBusinessBPAccountsTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
+
+Testcase: shouldSetAndGetContractAccountNumber took 0.001 sec
+Testcase: shouldSetAndGetRenewalType took 0 sec
+Testcase: shouldSetAndGetFuelType took 0 sec
+Testcase: shouldSetAndGetRenewalWindowEndDate took 0.001 sec
+Testcase: shouldSetAndGetCurrentEnergyPlan took 0 sec
+Testcase: shouldSetAndGetShowRenewalLink took 0.001 sec
+Testcase: shouldSetAndGetcontractStatus took 0 sec
+Testcase: shouldSetAndGetisDueForRenewal took 0 sec
+Testcase: shouldSetAndGetBpCp took 0 sec

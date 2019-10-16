@@ -1,0 +1,13 @@
+Testsuite: com.centrica.domain.BGBusinessAccountDetailsByAccountIDPostCodeTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec
+
+Testcase: shouldSetAndGetaccountBalanceStatus took 0.001 sec
+Testcase: shouldSetAndGetsiteAddress took 0 sec
+Testcase: shouldSetAndGetbillingAddress took 0.001 sec
+Testcase: shouldSetAndGetaccountType took 0 sec
+Testcase: shouldSetAndGetpostCode took 0 sec
+Testcase: shouldSetAndGetcontractAccountNumber took 0 sec
+Testcase: shouldSetAndGetbusinessName took 0 sec
+Testcase: shouldSetAndGetbusinessPartnerOrd took 0.001 sec
+Testcase: shouldSetAndGetaccountStatus took 0 sec
+Testcase: shouldSetAndGetaccountBalance took 0.001 sec

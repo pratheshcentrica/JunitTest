@@ -1,0 +1,11 @@
+Testsuite: com.centrica.domain.EnergyTypeTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+
+Testcase: shouldMatchElectricityCodeIfElectricityTextSupplied took 0.001 sec
+Testcase: shouldMatchGasCodeIfGasTextSupplied took 0 sec
+Testcase: shouldMatchElectricityCodeIfElectricityTextCodeSupplied took 0 sec
+Testcase: shouldMatchGasCodeIfGasTextCodeSupplied took 0 sec
+Testcase: shouldReturnNullIfInvalidTextSupplied took 0 sec
+Testcase: shouldMatchGasEnergyTypeIfGasTextSupplied took 0.001 sec
+Testcase: shouldMatchGasEnergyTypeIfGasCodeSupplied took 0 sec
+Testcase: shouldReturnNullIfInvalidEnergyTextSupplied took 0 sec

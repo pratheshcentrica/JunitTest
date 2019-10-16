@@ -1,0 +1,7 @@
+Testsuite: com.centrica.domain.DeepLinkDetailsTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+
+Testcase: shouldSetAndGetAllValues took 0.001 sec
+Testcase: shouldSetAndGetAccountList took 0 sec
+Testcase: shouldSetAndGetBGSAccountList took 0.001 sec
+Testcase: shouldSetAndGetSmartEnergyValues took 0 sec

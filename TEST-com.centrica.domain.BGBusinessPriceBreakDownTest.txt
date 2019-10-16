@@ -1,0 +1,7 @@
+Testsuite: com.centrica.domain.BGBusinessPriceBreakDownTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+
+Testcase: shouldSetAndGetCurrency took 0 sec
+Testcase: shouldSetAndGetPriceUnit took 0 sec
+Testcase: shouldSetAndGetUnitRate took 0.001 sec
+Testcase: shouldSetAndGetType took 0 sec

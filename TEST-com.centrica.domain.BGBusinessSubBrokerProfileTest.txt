@@ -1,0 +1,5 @@
+Testsuite: com.centrica.domain.BGBusinessSubBrokerProfileTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec
+
+Testcase: testSetandGetBGBusinessSubBrokerProfile took 0.03 sec
+Testcase: testSetandGetBGBusinessSubBrokerContactPersonProfile took 0.001 sec

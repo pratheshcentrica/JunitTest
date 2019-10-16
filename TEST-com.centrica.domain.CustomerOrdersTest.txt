@@ -1,0 +1,15 @@
+Testsuite: com.centrica.domain.CustomerOrdersTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+
+Testcase: shouldReturnOnlyCustomerOrderMatchingOrderNumber took 0.001 sec
+Testcase: shouldReturnOnlyValidCustomerOrders took 0 sec
+Testcase: shouldReturnOnlyValidAndMatchinghBrandCustomerOrders took 0 sec
+Testcase: checkDefaultConstructorAndActiveOrderItems took 0 sec
+Testcase: shouldReturnCorrectAccountsMatchingAddressAndActiveOrderItems took 0.001 sec
+Testcase: shouldTestForInActiveOrderItems took 0 sec
+Testcase: shouldTestForIncompleteStatusOrdersAndAddress took 0.002 sec
+Testcase: shouldTestForActiveSSOForValidAddressAndHasSSO took 0.001 sec
+Testcase: shouldTestForNoValidSSO took 0 sec
+Testcase: shouldTestForLatestActiveSSOAddressOrderAndDifferentialAddressScenarios took 0.001 sec
+Testcase: shouldTestForMultiplePremises took 0.001 sec
+Testcase: shouldTestForAddressNull took 0 sec

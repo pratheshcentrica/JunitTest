@@ -1,0 +1,4 @@
+Testsuite: com.centrica.domain.BGBusinessJsonCarePlanTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec
+
+Testcase: setCarePlanTest took 0.01 sec

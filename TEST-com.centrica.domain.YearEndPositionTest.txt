@@ -1,0 +1,8 @@
+Testsuite: com.centrica.domain.YearEndPositionTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+
+Testcase: testBigDecimalValues took 0.001 sec
+Testcase: testOverallStatus took 0 sec
+Testcase: testRecommendation took 0 sec
+Testcase: testTypeID took 0 sec
+Testcase: testProjections took 0 sec

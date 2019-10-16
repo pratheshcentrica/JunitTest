@@ -1,0 +1,7 @@
+Testsuite: com.centrica.domain.BGBusinessCardTypeTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Testcase: testFrom took 0.001 sec
+Testcase: testGetKey took 0.001 sec
+Testcase: testFromForNullValue took 0 sec
+Testcase: testGetDescription took 0.001 sec

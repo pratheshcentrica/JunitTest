@@ -1,0 +1,46 @@
+Testsuite: com.centrica.domain.AccountTransactionsTest
+Tests run: 34, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec
+------------- Standard Output ---------------
+3
+0
+------------- ---------------- ---------------
+
+Testcase: shouldSetAndGetCurrentBalance took 0.004 sec
+Testcase: shouldGetLatestPayment took 0.01 sec
+Testcase: shouldSetAndGetAccountTransactions took 0.001 sec
+Testcase: shouldGetLatestPaymentForDebitAmount took 0.001 sec
+Testcase: shouldGetLatestPayment1 took 0.001 sec
+Testcase: shouldThrowExceptionForInvalidLatestPayment took 0.001 sec
+Testcase: shouldGetAccountTransactionForBillList took 0.003 sec
+Testcase: shouldReturnEmptyLastTransactionWhenCreditAmountISNull took 0.001 sec
+Testcase: shouldReturnAccountTransactionBetweenDates took 0.001 sec
+Testcase: shouldReturnFilteredAccountTransationsBetweenDates took 0.001 sec
+Testcase: shouldReturnFilteredAccountTransationsBetweenDates1 took 0 sec
+Testcase: shouldReturnValidLatestBillDate took 0.005 sec
+Testcase: shouldReturnLatestBillDateNullWhenTransactionListIsEmpty took 0 sec
+Testcase: shouldReturnRecentTrasaction took 0.006 sec
+Testcase: shouldReturnRecentTransactionIsNullWhenTransactionListIsEmpty took 0.001 sec
+Testcase: shouldReturnAccountTransactionsListSortedInDescendingOrder took 0.005 sec
+Testcase: shouldReturnTransactionsListWhenDateFormatExceptionIsThrown took 0.01 sec
+	FAILED
+expected:<1[1 Feb 2013]> but was:<1[0-04-2011]>
+junit.framework.AssertionFailedError: expected:<1[1 Feb 2013]> but was:<1[0-04-2011]>
+	at com.centrica.domain.AccountTransactionsTest.shouldReturnTransactionsListWhenDateFormatExceptionIsThrown(AccountTransactionsTest.java:564)
+
+Testcase: shouldReturnAssociatedBillDateForBillId took 0.003 sec
+Testcase: shouldReturnNullWhenAssociatedBillDateNotFound took 0.003 sec
+Testcase: shouldReturnTheListSizeZeroWhenNoListAvailable took 0 sec
+Testcase: shouldSetAndGetDispCurrentOutstandBalType took 0 sec
+Testcase: shouldNotReturnAccountTransactionListWhenBillIdIsBlank took 0.001 sec
+Testcase: shouldNotReturnTransactionWhenTransactionTypeISNoTPayment took 0 sec
+Testcase: shouldReturnNullWhenCreditAmountIsZero took 0 sec
+Testcase: shouldReturnNullWhenDateIsNull took 0.001 sec
+Testcase: shouldReturnExactDateBeforeMaxDays took 0 sec
+Testcase: shouldReturnMaxDays took 0.001 sec
+Testcase: shouldReturnTestValueForGettersAndSetters took 0 sec
+Testcase: shouldReturnTransactionWhenTransactionTypeIsPayment took 0 sec
+Testcase: shouldReturnExceptionWhenDateNotInExpectedFormat took 0.001 sec
+Testcase: shouldRetrieveEmptyAccountTransactionWhenTransactionDateIsNull took 0 sec
+Testcase: shouldSetAndGetDataAvailable took 0 sec
+Testcase: shouldSetAndGetReassessmentDate took 0.003 sec
+Testcase: shouldSetAndGetCurrentBalanceCategory took 0 sec

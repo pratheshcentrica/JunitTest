@@ -1,0 +1,11 @@
+Testsuite: com.centrica.domain.cardPayment.PaymentDetailsTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+
+Testcase: shouldSetAndGetTransactionAmount took 0 sec
+Testcase: shouldSetAndGetCurrentBalance took 0 sec
+Testcase: shouldSetAndGetContractAccountNumber took 0 sec
+Testcase: shouldSetAndGetSupplyAddress took 0 sec
+Testcase: shouldSetAndGetEmailAddress took 0 sec
+Testcase: shouldSetAndGetPaymentReference took 0 sec
+Testcase: shouldSetAndGetpaymentStatus took 0.001 sec
+Testcase: shouldSetandGetUserDetails took 0 sec

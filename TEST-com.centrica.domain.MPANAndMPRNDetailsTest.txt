@@ -1,0 +1,9 @@
+Testsuite: com.centrica.domain.MPANAndMPRNDetailsTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+
+Testcase: shouldReturnQualificationFailureReasons took 0 sec
+Testcase: shouldReturnQualificationStatusDescription took 0 sec
+Testcase: shouldReturnQualificationStatusID took 0 sec
+Testcase: shouldReturnSectorAvailability took 0 sec
+Testcase: shouldReturnTargetabilityStatusDescription took 0 sec
+Testcase: shouldReturnTargetabilityStatusID took 0 sec

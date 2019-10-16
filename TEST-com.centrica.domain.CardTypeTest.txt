@@ -1,0 +1,16 @@
+Testsuite: com.centrica.domain.CardTypeTest
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec
+
+Testcase: shouldReturnCardTypeIfDescriptionMatches took 0 sec
+Testcase: shouldReturnNullForCardByValue took 0 sec
+Testcase: cardTypeIsMastroCard took 0 sec
+Testcase: shouldReturnCardTypeIfCodeMatches took 0 sec
+Testcase: cardTypeIsMasterCard took 0.001 sec
+Testcase: cardTypeSwitch took 0 sec
+Testcase: shouldReturnNullCardType took 0 sec
+Testcase: cardTypeIsVisaDebit took 0 sec
+Testcase: shouldReturnCardTypeByValue took 0 sec
+Testcase: shouldReturnNullIfDescriptionMatches took 0 sec
+Testcase: shouldReturnNullIfCodeDoesNotMatch took 0 sec
+Testcase: cardTypeIsVisaDelta took 0 sec
+Testcase: cardTypeIsVisaCredit took 0 sec

@@ -1,0 +1,19 @@
+Testsuite: com.centrica.domain.DiagnosticToolStackTest
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec
+
+Testcase: shouldReturnitemAvailablefalse took 0.001 sec
+Testcase: shouldReturnDiagnosticToolQuestions took 0 sec
+Testcase: shouldReturnpushEmpty took 0.001 sec
+Testcase: shouldReturnpushQuest took 0 sec
+Testcase: shouldReturnpushEmpt took 0 sec
+Testcase: shouldReturnpushNulls took 0 sec
+Testcase: shouldReturnDiagnosticToolQuestion took 0 sec
+Testcase: shouldReturnitemAvailabletrues took 0 sec
+Testcase: shouldReturnitemAvailablefalse1 took 0 sec
+Testcase: shouldReturnitemAvailabletrue took 0 sec
+Testcase: shouldReturnpushQues took 0 sec
+Testcase: shouldReturnpushQuestnull took 0 sec
+Testcase: shouldReturnpushQuestempty took 0 sec
+Testcase: shouldReturnitemAvailablenull took 0 sec
+Testcase: shouldReturnpushNull took 0 sec
+Testcase: shouldReturnitemAvailablefalse2 took 0 sec

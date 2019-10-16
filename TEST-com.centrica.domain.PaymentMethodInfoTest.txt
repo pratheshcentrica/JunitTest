@@ -1,0 +1,13 @@
+Testsuite: com.centrica.domain.PaymentMethodInfoTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+
+Testcase: testPaymentMethodInfo took 0.001 sec
+Testcase: shouldTestCompareToMethod took 0 sec
+Testcase: shouldTestCompareToMethodWhenGreater took 0 sec
+Testcase: shouldTestCompareToMethodWhenLesser took 0 sec
+Testcase: shouldTestHasCode took 0 sec
+Testcase: shouldTestHasCodeWhenIdHasValues took 0 sec
+Testcase: shouldTestEqualsWhenOtherObjectIdIsNull took 0 sec
+Testcase: shouldTestEqualsWhenOtherObjectIdHasValues took 0 sec
+Testcase: shouldTestEqualsWhenOtherObjectIdIsNotEquals took 0 sec
+Testcase: shouldTestEqualsWhenOtherObjectIdIsEquals took 0 sec

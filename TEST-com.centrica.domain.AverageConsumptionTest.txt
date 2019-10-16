@@ -1,0 +1,4 @@
+Testsuite: com.centrica.domain.AverageConsumptionTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Testcase: testSetandGetValues took 0 sec

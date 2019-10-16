@@ -1,0 +1,26 @@
+Testsuite: com.centrica.domain.BGBusinessMoveDetailsTest
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.188 sec
+
+Testcase: testDescription took 0.091 sec
+Testcase: testFuelType took 0.002 sec
+Testcase: testDivision took 0.002 sec
+Testcase: testMoveInDate took 0.002 sec
+Testcase: testMoveInAddress took 0.002 sec
+Testcase: testSitePostCode took 0.002 sec
+Testcase: testAccountNumber took 0.002 sec
+Testcase: testGasRequestType took 0.002 sec
+Testcase: testElctricityRequestType took 0.001 sec
+Testcase: testPrefferedTime took 0.001 sec
+Testcase: testOpportunityType took 0.001 sec
+Testcase: testOpportunityGroup took 0.002 sec
+Testcase: testStatusInOpportunity took 0.002 sec
+Testcase: testReasonInOpportunity took 0.002 sec
+Testcase: testBusinessPartnerContactPerson took 0.001 sec
+Testcase: testBusinessParterOrgnization took 0.002 sec
+Testcase: testQuoteReferenceNUmber took 0.002 sec
+Testcase: testSource took 0.002 sec
+Testcase: testSurName took 0.002 sec
+Testcase: testFirstName took 0.001 sec
+Testcase: testJourneyType took 0.001 sec
+Testcase: testNumberOfSites took 0.002 sec
+Testcase: testTelephoneNumber took 0.002 sec

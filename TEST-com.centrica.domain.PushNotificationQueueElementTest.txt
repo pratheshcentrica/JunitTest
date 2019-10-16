@@ -1,0 +1,10 @@
+Testsuite: com.centrica.domain.PushNotificationQueueElementTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+
+Testcase: shouldSetAndGetStatus took 0 sec
+Testcase: shouldSetAndGetBrand took 0 sec
+Testcase: shouldSetAndGetsourceId took 0 sec
+Testcase: shouldSetAndGetDynamicMessage took 0 sec
+Testcase: shouldSetAndGetMessageType took 0 sec
+Testcase: shouldSetAndGetUcrn took 0 sec
+Testcase: shouldSetAndGetRetries took 0 sec

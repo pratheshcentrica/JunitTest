@@ -1,0 +1,13 @@
+Testsuite: com.centrica.domain.CPSPaymentSchemesTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.07 sec
+
+Testcase: shouldReturnPaymentAmount took 0.004 sec
+Testcase: shouldReturnPendingPaymentAmount took 0.006 sec
+Testcase: shouldReturnEmptySecondList took 0.004 sec
+Testcase: testPaymentLineByContract took 0.005 sec
+Testcase: testForDifferentDates took 0.025 sec
+Testcase: checkDefaultConstructor took 0.003 sec
+Testcase: shouldReturnEmptySecondListForDifferantInstallments took 0.006 sec
+Testcase: shoulBuildPaymentScheme took 0.002 sec
+Testcase: shouldNotReturnEmptySecondListForDifferantInstallments took 0.006 sec
+Testcase: testTooltipContentIfEnergyGas took 0.005 sec
