@@ -1,8 +1,0 @@
-Testsuite: com.centrica.domain.PEEAEligibleDetailsTest
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
-
-Testcase: testPEEAEligibleDetails took 0.001 sec
-Testcase: testCostPostBillRequiredFalse took 0 sec
-Testcase: testMandatoryFlagFalse took 0.001 sec
-Testcase: testPeeaEligibileInCacheFalse took 0 sec
-Testcase: testisPeeaEligibleFalse took 0 sec

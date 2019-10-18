@@ -1,7 +1,0 @@
-Testsuite: com.centrica.domain.CPSConsumptionTest
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
-
-Testcase: testCPSConsumption took 0.002 sec
-Testcase: getMixedPlanPeriod took 0 sec
-Testcase: getMixedPlanPeriodQ took 0 sec
-Testcase: getMixedPlanPeriodM took 0 sec

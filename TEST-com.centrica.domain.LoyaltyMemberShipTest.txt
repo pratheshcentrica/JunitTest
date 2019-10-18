@@ -1,7 +1,0 @@
-Testsuite: com.centrica.domain.LoyaltyMemberShipTest
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec
-
-Testcase: testIfCustomerIsLoyaltyMember took 0.006 sec
-Testcase: shouldReturnNotaLoyaltyMemberWhenMembershipListIsNull took 0 sec
-Testcase: shouldReturnExpectedValuesOnMembershipDetails took 0 sec
-Testcase: shouldReturnTrueWhenMEmbershipDetailsAvailable took 0 sec

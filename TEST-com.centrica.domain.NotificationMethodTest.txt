@@ -1,7 +1,0 @@
-Testsuite: com.centrica.domain.NotificationMethodTest
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
-
-Testcase: NotificationMethodPush took 0.02 sec
-Testcase: NotificationMethodEmail took 0.001 sec
-Testcase: NotificationMethodreturnsValue took 0.002 sec
-Testcase: NotificationMethodreturnsNoValue took 0.001 sec

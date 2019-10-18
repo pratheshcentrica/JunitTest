@@ -1,5 +1,0 @@
-Testsuite: com.centrica.domain.EnergyUsageTest
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
-
-Testcase: testEnergyUsage took 0 sec
-Testcase: testEnergyUsageSetters took 0 sec

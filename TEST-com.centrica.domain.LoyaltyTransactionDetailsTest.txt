@@ -1,7 +1,0 @@
-Testsuite: com.centrica.domain.LoyaltyTransactionDetailsTest
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
-
-Testcase: testSchemeAgencyID took 0.005 sec
-Testcase: testLoyaltyTransactionList took 0.001 sec
-Testcase: testLoyaltyPointAccountID took 0 sec
-Testcase: testLoyaltyTransactionListNull took 0.001 sec

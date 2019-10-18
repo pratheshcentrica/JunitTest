@@ -1,7 +1,0 @@
-Testsuite: com.centrica.domain.BGBusinessBillingTypeTest
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
-
-Testcase: billingTypeMonthly took 0.001 sec
-Testcase: billingTypeReturnsValue took 0 sec
-Testcase: billingTypeQuarterly took 0 sec
-Testcase: billingTypeNone took 0 sec

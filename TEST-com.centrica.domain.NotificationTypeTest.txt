@@ -1,9 +1,0 @@
-Testsuite: com.centrica.domain.NotificationTypeTest
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
-
-Testcase: NotificationTypeBILL_ALERT took 0 sec
-Testcase: NotificationTypeREWARD took 0 sec
-Testcase: NotificationTypeReturnNull took 0 sec
-Testcase: NotificationTypeGenereal took 0 sec
-Testcase: NotificationTypeSUBMIT_METER_READ took 0 sec
-Testcase: NotificationTypeReturnValues took 0 sec

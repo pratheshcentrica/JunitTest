@@ -1,8 +1,0 @@
-Testsuite: com.centrica.domain.BGBusinessCarePlanProductTest
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec
-
-Testcase: testForBGBusinessCarePlanProductsList took 0.011 sec
-Testcase: shouldsetandgetSumOfAllProductsOnMonthlyBasis took 0 sec
-Testcase: shouldsetandgetSumOfAllProductsOnAnnualBasis took 0.001 sec
-Testcase: testGetSumOfAllProductsOnNetMonthlyBasis took 0.001 sec
-Testcase: testGetSumOfAllProductsOnNetAnnualBasis took 0 sec
