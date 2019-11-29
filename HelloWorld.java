@@ -1,5 +1,5 @@
 
-/* This is a simple Java program. 
+/* This is a simplesadsa Java program. 
    FileName : "HelloWorld.java". */
 class HelloWorld 
 { 
