@@ -1,4 +1,5 @@
 # Universal Windows Platform
+- steps:
 - task: SSH@0
   inputs:
     runOptions: 'commands'
