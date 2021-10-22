@@ -1,6 +1,6 @@
 Buildfile: /home/ec2-user/cq-trunk-stack/core/britishgas/all/build.xml
 
-clean.build:
+safjhhdsgjfcdslfvdsjdnclean.build:
      [echo] britishgas
    [delete] Deleting directory /home/ec2-user/cq-trunk-stack/core/britishgas/target
 
@@ -15,7 +15,7 @@ init:
 compile:
      [echo] britishgas-fragment
 
-compile.test:
+compile.test:asdsadsadsadsaxzczxcasdsa
      [echo] britishgas-fragment
 
 test:
